@@ -1,0 +1,30 @@
+Git steps
+-----------------------
+1) create repository - js-example-codes
+2) or  create a new repository on the command line
+
+…or create a new repository on the command line
+
+echo "# js-example-codes" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/veereshallenki/js-example-codes.git
+git push -u origin main
+
+3) …or push an existing repository from the command line
+
+git remote add origin https://github.com/veereshallenki/js-example-codes.git
+git branch -M main
+git push -u origin main
+
+4)…or import code from another repository
+
+========================================================================================
+
+Steps followd to push code into GIT
+1) open GTI bash editor
+2) Navigate tot the folder to push files GIT repository
+3) follow the below
+4) git init
